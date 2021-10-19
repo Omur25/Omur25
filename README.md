@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ###This Is My Life (PC Game)
+- 🔭 I’m currently working on <b>This Is My Life (PC Game)</b>
 - 🌱 I’m currently learning ###Game development
 - 📫 How to reach me: ###E-Mail : omurc1846@gmail.com | IG : omur_dgr25
 
