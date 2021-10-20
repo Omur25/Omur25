@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **2D/3D Game**
 
-- 👨‍💻 All of my projects are available at [Will be added soon](Will be added soon)
+- 👨‍💻 All of my projects are available at **Will be added soon
 
 - 💬 Ask me about **Unity, C#, Blender**
 
