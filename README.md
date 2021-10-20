@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [This Is My Life](Eklenecek)
 
-- 📫 How to reach me **omurc1846@gmsil.com**
+- 📫 How to reach me **omurc1846@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
