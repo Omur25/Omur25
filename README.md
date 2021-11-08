@@ -1,5 +1,3 @@
-![MyBanner](https://user-images.githubusercontent.com/63416571/138151843-4615697b-f436-4d0e-8571-cbb3c15ae5af.png)
-
 <h1 align="center">Hi 👋, I'm Ömür</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
